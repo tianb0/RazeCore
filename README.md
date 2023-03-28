@@ -1,0 +1,2 @@
+# RazeCore
+test dynamic lib 
